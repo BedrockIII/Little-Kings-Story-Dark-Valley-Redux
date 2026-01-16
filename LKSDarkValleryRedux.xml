@@ -1,0 +1,26 @@
+<wiidisc version="1">
+	<id game="RO3" />
+	<options>
+		<section name="LKS3">
+			<option name="/LKS3">
+				<choice name="Enabled">
+					<patch id="LKS Mods" />
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="LKS Mods">
+	    <savegame external="/riivolution/LKS New Alpoko Mod Saves" clone="true" />
+		<folder external="/LKS New Alpoko/Map/World" disc="/map/wg" />
+		<folder external="/LKS New Alpoko/Movie" disc="/0_movie" create="true"/>
+		<file external="/LKS New Alpoko/Map/Building/bl0681b.pac" disc="/map/wb/bl0681b.pac" create="true"/>
+		<file external="/LKS New Alpoko/Map/Building/bl0641b.pac" disc="/map/wb/bl0641b.pac" create="true"/>
+		<file external="/LKS New Alpoko/Map/Building/bl0391.pac" disc="/map/wb/bl0391.pac" create="true"/>
+		<folder external="/LKS New Alpoko/Resources" disc="/res" />
+		<folder external="/LKS New Alpoko/Events" disc="/event/script/sub" create="true"/>/>
+		<folder external="/LKS New Alpoko" disc="/zpack" />
+		<folder external="/LKS New Alpoko/Message" disc="/mes/1" />
+		<folder external="/LKS New Alpoko/System Data/Menu Data" disc="/sys/menuDB" />
+		<folder external="/LKS New Alpoko/System Data/Menu Layout/Kingdom Plan" disc="/sys/Layout/KingdomPlanbrres" create="true"/>
+	</patch>
+</wiidisc>
