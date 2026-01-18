@@ -1,8 +1,8 @@
 <wiidisc version="1">
 	<id game="RO3" />
 	<options>
-		<section name="LKS3">
-			<option name="/LKS3">
+		<section name="LKS Mods">
+			<option name="/LKS Mods">
 				<choice name="Enabled">
 					<patch id="LKS Mods" />
 				</choice>
@@ -24,3 +24,4 @@
 		<folder external="/LKS New Alpoko/System Data/Menu Layout/Kingdom Plan" disc="/sys/Layout/KingdomPlanbrres" create="true"/>
 	</patch>
 </wiidisc>
+
