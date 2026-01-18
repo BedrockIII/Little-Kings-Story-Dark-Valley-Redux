@@ -1,3 +1,7 @@
+Special Thanks:
+
+I would like to thank the LKS community for encouraging me to complete this project and a special thanks to Amiiban, Deadweight, Azeribeltza, and iwubcode, each for their technical help.
+
 Description:
 
 This mod sets out to fully reimagine the progression from Onii Man until Onii King. It takes about an hour or two to play through although I recommend starting from a fresh save. Also, unfortunately, it is only possible in English because of localization issues. This was a project I started sometime during 2022 or 2023. Honestly it kind of became a joke because of how immpossible it seemed. but after years of effort, it is ready. Hopefully you enjoy playing it or watching someone else's perspective.
